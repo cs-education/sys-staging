@@ -1,0 +1,5 @@
+c022beb Fix favicon, use HTTPS for Google Analytics
+642bc06 Update readme and contribution docs
+dde0902 Focus term when switching or toggling fullscreen
+fa795db Fix Ace dependency loading in distribution build
+6fda2ee Download license only once in app lifetime
