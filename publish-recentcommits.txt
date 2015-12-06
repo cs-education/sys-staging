@@ -1,5 +1,0 @@
-633016a Fix trailing comma in Gruntfile
-4c36788 Open license in a modal window instead of linking to GitHub
-e0d742e  Add bower.json override for jor1k
-a933c8a Add bower.json override for ace-builds
-fcb83d8 Update editorconfig file to use 2 space-indents for some config files
