@@ -1,5 +1,5 @@
+b948661 Run lint before test in ci task, fix lint error
+c6b3f39 Add top margin to main footer for better spacing
+e9e973d Add back Google Analytics tracking
+28943b9 Write build stamp and recent commit log after build
 c022beb Fix favicon, use HTTPS for Google Analytics
-642bc06 Update readme and contribution docs
-dde0902 Focus term when switching or toggling fullscreen
-fa795db Fix Ace dependency loading in distribution build
-6fda2ee Download license only once in app lifetime
