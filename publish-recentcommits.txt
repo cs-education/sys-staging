@@ -1,5 +1,5 @@
-b948661 Run lint before test in ci task, fix lint error
-c6b3f39 Add top margin to main footer for better spacing
-e9e973d Add back Google Analytics tracking
-28943b9 Write build stamp and recent commit log after build
-c022beb Fix favicon, use HTTPS for Google Analytics
+cf5ae7f Merge pull request #136 from cs-education/fix_backspace_key
+672e48f Fix disabled "backspace" key in input forms on playground
+bc4db80 Merge pull request #135 from cs-education/error_detection_multifile_and_makefile
+6a014ee updating tests and modifying gcc-parser to parse row and col numbers correctly
+b01edd9 adding error detection for makefiles and multiplefiles
