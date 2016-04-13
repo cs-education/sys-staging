@@ -1,5 +1,5 @@
-cf5ae7f Merge pull request #136 from cs-education/fix_backspace_key
-672e48f Fix disabled "backspace" key in input forms on playground
-bc4db80 Merge pull request #135 from cs-education/error_detection_multifile_and_makefile
-6a014ee updating tests and modifying gcc-parser to parse row and col numbers correctly
-b01edd9 adding error detection for makefiles and multiplefiles
+03b9b1f Merge pull request #142 from cs-education/drag_and_drop
+62f0343 multiple drag and drop problem fix
+6757f40 Merge pull request #141 from cs-education/playground_to_VM_UI
+a9bb924 fixing semi-colon issues to pass lint
+0df2d71 adding dragging and dropping of files into the filebrowser
