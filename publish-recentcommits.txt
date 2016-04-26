@@ -1,5 +1,5 @@
-03b9b1f Merge pull request #142 from cs-education/drag_and_drop
-62f0343 multiple drag and drop problem fix
-6757f40 Merge pull request #141 from cs-education/playground_to_VM_UI
-a9bb924 fixing semi-colon issues to pass lint
-0df2d71 adding dragging and dropping of files into the filebrowser
+571ec8e Merge pull request #153 from cs-education/github_merge_prompt
+fbe9792 prompt on push to overwrite or merge with current
+1ad13d9 Merge pull request #151 from cs-education/filesys_bugs_fix
+e8c72af filesystem-int bug fix
+23201ca Merge pull request #150 from cs-education/savefileoncompile
