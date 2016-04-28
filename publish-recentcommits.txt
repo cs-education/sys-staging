@@ -1,5 +1,5 @@
-571ec8e Merge pull request #153 from cs-education/github_merge_prompt
-fbe9792 prompt on push to overwrite or merge with current
-1ad13d9 Merge pull request #151 from cs-education/filesys_bugs_fix
-e8c72af filesystem-int bug fix
-23201ca Merge pull request #150 from cs-education/savefileoncompile
+cdd6923 Merge pull request #155 from cs-education/default_theme_tomorrow
+d7d9941 Merge pull request #156 from cs-education/sync_load_js_fix
+4769560 synchronously load browserFS for non-chrome browser support
+fdbd11c Merge pull request #154 from cs-education/syntax_error_fix
+e3637bf add syntax highlighting support for makefiles
