@@ -1,5 +1,0 @@
-cdd6923 Merge pull request #155 from cs-education/default_theme_tomorrow
-d7d9941 Merge pull request #156 from cs-education/sync_load_js_fix
-4769560 synchronously load browserFS for non-chrome browser support
-fdbd11c Merge pull request #154 from cs-education/syntax_error_fix
-e3637bf add syntax highlighting support for makefiles
